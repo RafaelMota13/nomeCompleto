@@ -20,5 +20,4 @@ sobrenome = $"{inicial1}{restante1}";
 
 
 Console.WriteLine($"Nome Completo: {nome} {sobrenome}");
-Console.WriteLine($"Nome de Catálogo: {sobrenome.ToUpper()}, {nome}");
-Console.WriteLine();
+Console.WriteLine($"Nome de Catálogo: {sobrenome.ToUpper()}, {nome}\n");
